@@ -1,0 +1,12 @@
+{
+  "name" : "easynews",
+  "description" : "Easynews automation through node.js",
+  "version" : "0.0.1",
+  "author" : "Jacob Gable <jacob.gable@gmail.com>",
+  "engines" : ["node"],
+  "directories" : { "lib" : "./lib" },
+  "main" : "./lib/easynews",
+  "dependencies" : {
+    "scraper" : ">=0.0.9"
+  }
+}
