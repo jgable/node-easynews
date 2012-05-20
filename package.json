@@ -7,6 +7,7 @@
   "directories" : { "lib" : "./lib" },
   "main" : "./lib/easynews",
   "dependencies" : {
-    "scraper" : ">=0.0.9"
+    "scraper" : ">=0.0.9",
+    "node-promise" : ">=0.5.2"
   }
 }
